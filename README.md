@@ -8,7 +8,7 @@ Gitee与Github同步：
 
 ## 简介
 
-这是3、4年轻写的AXI主机模块，当时还喜欢用SystemVerilog，几个模块功能都是实现对DDR的读写，测试的芯片为ZYNQ 7020，功能测试均无问题。
+这是3、4年前写的AXI主机模块，当时还喜欢用SystemVerilog，有些复杂，就不去改成Verilog了，几个模块功能都是实现对DDR的读写，测试的芯片为ZYNQ 7020，功能测试均无问题。
 
 模块均为标准的AXI接口，可在Vivado中对模块进行IP封装，之后在Block Design可以直接与其它AXI接口IP进行总线连接。
 
