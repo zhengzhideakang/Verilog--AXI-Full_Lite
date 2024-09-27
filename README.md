@@ -2,7 +2,7 @@
 
 Gitee与Github同步：
 
-[Verilog功能模块--AXI-Full_Lite: Verilog功能模块--AXI4-Full Verilog功能模块--AXI4-Lite (gitee.com)](https://gitee.com/xuxiaokang/verilog-functional-module--AXI4-Full_Lite)
+[Verilog功能模块--AXI-Full_Lite: Verilog功能模块--AXI4-Full Verilog功能模块--AXI4-Lite (gitee.com)](https://gitee.com/xuxiaokang/verilog-function-module--AXI4-Full_Lite)
 
 [zhengzhideakang/Verilog--AXI-Full_Lite: Verilog功能模块--AXI4-Full，AXI4-Lite (github.com)](https://github.com/zhengzhideakang/Verilog--AXI-Full_Lite)
 
